@@ -2,7 +2,7 @@
 
 # ![Super Mario](http://www.videogamesprites.net/SuperMarioBros1/Characters/Mario/Mario%20-%20Walk1.gif "Super Mario") About me  
 
-Hey there! I´m **Fran**, a guy passionate about retro-themed video games, football, and horror literature. I'm currently working as a **QA Tester** for a company that implements its own [**MES**](https://es.wikipedia.org/wiki/Manufacturing_Execution_System) solution for businesses, and in my spare time, I’m learning frontend development with a special focus on the **Angular** framework.
+Hey there! I'm **Fran**, a guy passionate about retro-themed video games, football, and horror literature. I'm currently working as a **QA Tester** for a company that implements its own [**MES**](https://en.wikipedia.org/wiki/Manufacturing_Execution_System) solution for businesses, and in my spare time, I’m learning frontend development with a special focus on the **Angular** framework.
 
 <br>
 
